@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "csharp-aes/1.1.1": {
+        "runtime": {
+          "lib/net452/csharp-aes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-aes/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fkw0JQdMn6Xpqa7nQkPuiUBjkkbv6CHgztAvW/s89MFbgR47Joxxg1sGD1klbWWO+QD2hcRK2bAsy/dcM8DZ7A==",
+      "path": "csharp-aes/1.1.1",
+      "hashPath": "csharp-aes.1.1.1.nupkg.sha512"
+    }
+  }
+}
